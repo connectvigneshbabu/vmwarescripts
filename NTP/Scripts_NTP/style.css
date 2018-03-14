@@ -1,0 +1,11 @@
+﻿<style>
+BODY{background-color:white;}
+TABLE{border-width: 2px;border-style: solid;border-color: black;border-collapse: collapse;}
+TH{border-width: 1px;padding: 5px;border-style: solid;border-color: black;background-color: #4CAF50;color:white;}
+TD{border-width: 1px;padding: 5px;border-style: solid;border-color: black;}
+.right {
+    float: right;
+    width: 300px;
+    background-color: #b0e0e6;
+}
+</style>
